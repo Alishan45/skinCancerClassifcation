@@ -24,11 +24,11 @@ This repository contains an implementation of a YOLO (You Only Look Once) based 
 
 ## Features
 
-- YOLOv5/YOLOv8 implementation for skin cancer detection
+- YOLOv8 implementation for skin cancer detection
 - Support for multiple classes of skin lesions
 - Customizable model architecture
 - Training and evaluation scripts
-- Export to various formats (ONNX, TFLite, etc.)
+- Export to various formats (ONNX, TFLite,pt)
 - Comprehensive metrics visualization
 
 ## Dataset
