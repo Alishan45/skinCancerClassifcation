@@ -105,8 +105,8 @@ Performance metrics on the test set:
 
 Sample detection:
 
-![Sample Detection 1](output1)
-![Sample Detection 2](output2)
+![Sample Detection 1](output1.jpg)
+![Sample Detection 2](output2.jpg)
 
 ## Contributing
 
