@@ -1,0 +1,6 @@
+names:
+- benign
+- malignant
+nc: 2
+train: /kaggle/working/Skin-Cancer-2/train
+val: /kaggle/working/Skin-Cancer-2/valid
